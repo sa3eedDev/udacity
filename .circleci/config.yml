@@ -30,4 +30,4 @@ build:
    - run:
        name: Deploy App
        command: |
-         npm run frontend:deploy  
+         npm run frontend:deploy
